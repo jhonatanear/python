@@ -4,7 +4,7 @@ This is the version of the classic letter guessing game called Hangman developed
 
 You will learn to work with dictionaries, lists, conditionals. You'll also learn how to work with strings and occasional Python modules.
 
-### Installing
+## Installing
 
 Follow the instructions below to be able to run the project locally:
 
