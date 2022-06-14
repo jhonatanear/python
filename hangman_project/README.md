@@ -31,9 +31,9 @@ python hangman.py
 
 If anyone wants to add or improve something, I invite you to contribute directly to this repository: [python](https://github.com/jhonatanear/python/)
 
-## License 📄
+## License 
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jhonatanear/python/LICENSE.md) file for details.
 
 ---
 por [Jonathan Angulo](https://github.com/jhonatanear) 
